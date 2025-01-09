@@ -36,7 +36,7 @@ function Header() {
 				</div>
 
 				<div className="nav__item">
-					<span className="nav__itemLineTwo">Your</span>
+					<span className="nav__itemLineOne">Your</span>
 					<span className="nav__itemLineTwo">Shop</span>
 				</div>
 
